@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have questions or suggestions, please feel free to contact the project owner:
 
-Your Name
-Email: your.email@example.com
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hafeez-ullah-8379aa221/)
+Hafeez ullah
+Email: hafeezullah7000@gmail.com
+LinkedIn: (https://www.linkedin.com/in/hafeez-ullah-8379aa221/)
 
